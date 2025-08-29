@@ -1,9 +1,8 @@
 <?php
 
-use App\Http\Controllers\SobreController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/sobre', SobreController::class);
+
+Route::get('/', HomeController::class);
+
