@@ -1,0 +1,3 @@
+Þ Instalar o pacotes no VScode;
+ø Explicar sobre :
+ -> usuario => request/Sobre => Rotas => Se/Sobre E o método HTTP get => SobreController <=  => View 
