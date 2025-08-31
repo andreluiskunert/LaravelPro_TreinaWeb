@@ -1,0 +1,5 @@
+No início, a tela mostra o editor de código VS Code aberto no Linux Mint, exibindo arquivos do projeto Laravel (como web.php e layout.blade.php). O terminal na parte inferior é usado para rodar comandos Artisan, criando controladores e componentes no Laravel.
+
+Conforme o vídeo avança, o usuário interage com o editor, alternando entre abas e observando os resultados dos comandos executados no terminal. Em determinado momento, aparece a janela do plugin de banco de dados do VS Code, mostrando opções de conexão a diferentes tipos de banco (MySQL, PostgreSQL, SQLite, etc.).
+
+Durante toda a gravação, o vídeo se mantém na tela do VS Code, sem mudar para outros aplicativos. O foco principal é a configuração do projeto Laravel e a execução de comandos no terminal integrado.
